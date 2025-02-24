@@ -1,2 +1,2 @@
 # motion-generation-survey
-a paper list
+a reading list of motion generation
