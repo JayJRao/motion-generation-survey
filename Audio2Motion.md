@@ -21,6 +21,7 @@ a reading list of audio2motion
 ## Music2Dance
 * [2024.10] [**lodge++**: High-quality and Long Dance Generation with Vivid Choreography Patterns] [[Page](https://li-ronghui.github.io/lodgepp)]
 * [2024.03] [**lodge**: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives] [[Page](https://li-ronghui.github.io/lodge)]
-* [2022.12] [**FineDance**: A Fine-grained Choreography Dataset for 3D Full Body Dance Generation] [[PDF](https://arxiv.org/pdf/2212.03741)]
+* [2022.12] [**FineDance**: A Fine-grained Choreography Dataset for 3D Full Body Dance Generation] [[PDF](https://arxiv.org/pdf/2212.03741)]  
+* [2024.07] [**Beat It**: Beat-Synchronized Multi-Condition 3D Dance Generation] [ECCV2024] [[PDF](https://arxiv.org/pdf/2407.07554) [Page](https://zikaihuangscut.github.io/Beat-It/)]
 * [2022.11] [**EDGE**: Editable Dance Generation from Music] [CVPR2023] [[Page](https://edge-dance.github.io/)]
 * [2021.01] [**AIST++**: AI Choreographer: Music Conditioned 3D Dance Generation with AIST++] [ICCV2021] [[PDF](https://arxiv.org/pdf/2101.08779)]
