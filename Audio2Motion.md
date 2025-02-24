@@ -14,7 +14,7 @@ a reading list of audio2motion
 * [2022.12] [**TalkShow**: Generating Holistic 3D Human Motion from Speech] [CVPR2023] [[Page](https://talkshow.is.tue.mpg.de/)]
 * [2022.03] [**BEAT**: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis] [ECCV2022] [[PDF](https://arxiv.org/pdf/2203.05297)]
 * [2021.08] [**Audio2Gestures**: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders] [ICCV2021] [[PDF](https://arxiv.org/pdf/2108.06720)]
-* [2021.xx] [**Habibie et al**: A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech] [SigGraph2022] [[PDF](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/data/paper.pdf)]
+* [2022.07] [**Habibie et al**: A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech] [SigGraph2022] [[PDF](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/data/paper.pdf)]
 * [2021.02] [**Habibie et al**: Learning Speech-driven 3D Conversational Gestures from Video] [IVA2021] [[PDF](https://arxiv.org/pdf/2102.06837)]
 * [2019.06] [**Ginosar et al**: Learning Individual Styles of Conversational Gesture] [CVPR2019] [[PDF](https://arxiv.org/pdf/1906.04160)]
 
