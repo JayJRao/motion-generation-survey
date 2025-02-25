@@ -28,6 +28,8 @@ a reading list of audio2motion
 * [2022.11] [**EDGE**: Editable Dance Generation from Music] [CVPR2023] [[Page](https://edge-dance.github.io/)]
 * [2022.03] [**Bailando**: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory] [CVPR2022] [[PDF](https://arxiv.org/pdf/2203.13055) [Page](https://www.mmlab-ntu.com/project/bailando/index.html)]
 * [2021.01] [**AIST++**: AI Choreographer: Music Conditioned 3D Dance Generation with AIST++] [ICCV2021] [[PDF](https://arxiv.org/pdf/2101.08779)]
+### Interaction Dance
+* [2024.12] [**InterDance**: REACTIVE 3D DANCE GENERATION WITH REALISTIC DUET INTERACTIONS] [[PDF](https://arxiv.org/pdf/2412.16982)]
+* [2024.03] [**Duolando**: FOLLOWER GPT WITH OFF-POLICY REINFORCEMENT LEARNING FOR DANCE ACCOMPANIMENT] [ICLR2024] [[PDF](https://arxiv.org/pdf/2403.18811) [Page](https://lisiyao21.github.io/projects/Duolando/)]
 
-## New Dataset
-* [2025.01] [**Motion-X++**: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset] [[PDF](https://arxiv.org/pdf/2501.05098)]
+
