@@ -2,10 +2,10 @@
 a reading list of audio2motion  
 ## Speech2Gesture
 * [2024.11] [**Dim-Gestor**: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2] [[PDF](https://arxiv.org/pdf/2411.16729)]
-* [2024.03] [**PG**: Speech-Driven Personalized Gesture Synthetics:Harnessing Automatic Fuzzy Feature Inference] [TVCG2024] [[PDF](https://arxiv.org/pdf/2403.10805)]
 * [2024.08] [**MDT-A2G**: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation] [MM2024] [[Page](https://xiaofenmao.github.io/web-project/MDT-A2G/)]
 * [2024.05] [**SIGGesture**: Generalized Co-Speech Gesture Synthesis via Semantic Injection with Large-Scale Pre-Training Diffusion Models] [SigGraph2024] [[PDF](https://arxiv.org/pdf/2405.13336)]
 * [2024.05] [**Semantic Gesticulatar**: Semantics-Aware Co-Speech Gesture Synthesis] [SigGraph 2024] [[PDF](https://arxiv.org/pdf/2405.09814)]
+* [2024.03] [**PG**: Speech-Driven Personalized Gesture Synthetics:Harnessing Automatic Fuzzy Feature Inference] [TVCG2024] [[PDF](https://arxiv.org/pdf/2403.10805)]
 * [2024.03] [**ConvoFusion**: Multi-modal conversational diffusion for co-speech gesture synthesis] [CVPR2024] [[PDF](https://arxiv.org/pdf/2403.17936)]
 * [2024.01] [**DiffSHEG**: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation] [CVPR2024] [[Page](https://jeremycjm.github.io/proj/DiffSHEG/)]
 * [2024.01] [**EMAGE**: owards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling] [CVPR2024][[Page](https://pantomatrix.github.io/EMAGE/)]
