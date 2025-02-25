@@ -17,6 +17,8 @@ a reading list of audio2motion
 * [2022.07] [**Habibie et al**: A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech] [SigGraph2022] [[PDF](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/data/paper.pdf)]
 * [2021.02] [**Habibie et al**: Learning Speech-driven 3D Conversational Gestures from Video] [IVA2021] [[PDF](https://arxiv.org/pdf/2102.06837)]
 * [2019.06] [**Ginosar et al**: Learning Individual Styles of Conversational Gesture] [CVPR2019] [[PDF](https://arxiv.org/pdf/1906.04160)]
+### Interaction Speech Motion
+* [2024.12] [**It Takes Two**: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model] [[PDF](https://arxiv.org/pdf/2412.02419)]
 
 ## Music2Dance
 ### FineDance dataset
