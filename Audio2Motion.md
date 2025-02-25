@@ -3,6 +3,7 @@ a reading list of audio2motion
 ## Speech2Gesture
 * [2024.08] [**MDT-A2G**: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation] [MM2024] [[Page](https://xiaofenmao.github.io/web-project/MDT-A2G/)]
 * [2024.05] [**SIGGesture**: Generalized Co-Speech Gesture Synthesis via Semantic Injection with Large-Scale Pre-Training Diffusion Models] [SigGraph2024] [[PDF](https://arxiv.org/pdf/2405.13336)]
+* [2024.05] [**Semantic Gesticulatar**: Semantics-Aware Co-Speech Gesture Synthesis] [SigGraph 2024] [[PDF](https://arxiv.org/pdf/2405.09814)]
 * [2024.03] [**ConvoFusion**: Multi-modal conversational diffusion for co-speech gesture synthesis] [CVPR2024] [[PDF](https://arxiv.org/pdf/2403.17936)]
 * [2024.01] [**DiffSHEG**: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation] [CVPR2024] [[Page](https://jeremycjm.github.io/proj/DiffSHEG/)]
 * [2024.01] [**EMAGE**: owards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling] [CVPR2024][[Page](https://pantomatrix.github.io/EMAGE/)]
@@ -12,6 +13,7 @@ a reading list of audio2motion
 * [2023.03] [**GestureDiffuCLIP**: Gesture Diffusion Model with CLIP Latents] [SigGraph2023] [[PDF](https://arxiv.org/pdf/2303.14613)]
 * [2023.03] [**DiffGesture**: Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation] [CVPR2023] [[PDF](https://arxiv.org/pdf/2303.09119)]
 * [2022.12] [**TalkShow**: Generating Holistic 3D Human Motion from Speech] [CVPR2023] [[Page](https://talkshow.is.tue.mpg.de/)]
+* [2022.10] [**Ryhthmic Gesticulatar**: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings] [SigGraph 2022] [[PDF](https://arxiv.org/pdf/2210.01448)]
 * [2022.03] [**BEAT**: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis] [ECCV2022] [[PDF](https://arxiv.org/pdf/2203.05297)]
 * [2021.08] [**Audio2Gestures**: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders] [ICCV2021] [[PDF](https://arxiv.org/pdf/2108.06720)]
 * [2022.07] [**Habibie et al**: A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech] [SigGraph2022] [[PDF](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/data/paper.pdf)]
