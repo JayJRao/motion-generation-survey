@@ -1,6 +1,9 @@
 # Audio2Motion
 a reading list of audio2motion  
 ## Speech2Gesture
+* [2025.01] [**GestureLSM**: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling] [[PDF](https://arxiv.org/pdf/2501.18898v1) [Page](https://andypinxinliu.github.io/GestureLSM)]
+* [2024.10] [**SynTalker**: Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation] [MM2024] [[PDF](https://arxiv.org/pdf/2410.00464v1)]
+* [2024.03] [**MambaTalk**: Efficient Holistic Gesture Synthesis with Selective State Space Models] [NIPS2024][[PDF](https://arxiv.org/pdf/2403.09471v5)] 
 * [2024.11] [**Dim-Gestor**: Co-Speech Gesture Generation with Adaptive Layer Normalization Mamba-2] [[PDF](https://arxiv.org/pdf/2411.16729)]
 * [2024.08] [**MDT-A2G**: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation] [MM2024] [[Page](https://xiaofenmao.github.io/web-project/MDT-A2G/)]
 * [2024.05] [**SIGGesture**: Generalized Co-Speech Gesture Synthesis via Semantic Injection with Large-Scale Pre-Training Diffusion Models] [SigGraph2024] [[PDF](https://arxiv.org/pdf/2405.13336)]
@@ -24,13 +27,18 @@ a reading list of audio2motion
 * [2019.06] [**Ginosar et al**: Learning Individual Styles of Conversational Gesture] [CVPR2019] [[PDF](https://arxiv.org/pdf/1906.04160)]
 ### Interaction Speech Motion
 * [2024.12] [**It Takes Two**: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model] [[PDF](https://arxiv.org/pdf/2412.02419)]
+### Gesture Generation on Beat2
+* [2025.01] [**GestureLSM**: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling] [[PDF](https://arxiv.org/pdf/2501.18898v1) [Page](https://andypinxinliu.github.io/GestureLSM)]
+* [2024.10] [**SynTalker**: Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation] [MM2024] [[PDF](https://arxiv.org/pdf/2410.00464v1)]
+* [2024.03] [**MambaTalk**: Efficient Holistic Gesture Synthesis with Selective State Space Models] [NIPS2024][[PDF](https://arxiv.org/pdf/2403.09471v5)]
+* [2024.01] [**EMAGE**: owards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling] [CVPR2024][[Page](https://pantomatrix.github.io/EMAGE/)]
 
 ## Music2Dance
-### FineDance dataset
+### On FineDance dataset
 * [2024.10] [**lodge++**: High-quality and Long Dance Generation with Vivid Choreography Patterns] [[Page](https://li-ronghui.github.io/lodgepp)]
 * [2024.03] [**lodge**: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives] [[Page](https://li-ronghui.github.io/lodge)]
 * [2022.12] [**FineDance**: A Fine-grained Choreography Dataset for 3D Full Body Dance Generation] [[PDF](https://arxiv.org/pdf/2212.03741)]
-### AIST++ dataset
+### On AIST++ dataset
 * [2024.07] [**Beat It**: Beat-Synchronized Multi-Condition 3D Dance Generation] [ECCV2024] [[PDF](https://arxiv.org/pdf/2407.07554) [Page](https://zikaihuangscut.github.io/Beat-It/)]
 * [2022.11] [**EDGE**: Editable Dance Generation from Music] [CVPR2023] [[Page](https://edge-dance.github.io/)]
 * [2022.03] [**Bailando**: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory] [CVPR2022] [[PDF](https://arxiv.org/pdf/2203.13055) [Page](https://www.mmlab-ntu.com/project/bailando/index.html)]
