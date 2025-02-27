@@ -9,6 +9,7 @@ a reading list of audio2motion
 * [2024.03] [**ConvoFusion**: Multi-modal conversational diffusion for co-speech gesture synthesis] [CVPR2024] [[PDF](https://arxiv.org/pdf/2403.17936)]
 * [2024.01] [**DiffSHEG**: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation] [CVPR2024] [[Page](https://jeremycjm.github.io/proj/DiffSHEG/)]
 * [2024.01] [**EMAGE**: owards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling] [CVPR2024][[Page](https://pantomatrix.github.io/EMAGE/)]
+* [2023.12] [**AMUSE**: Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion] [CVPR2024] [[PDF](https://arxiv.org/pdf/2312.04466)]
 * [2023.08] [**DSG+**: The DiffuseStyleGesture+ entry to the GENEA Challenge 2023] [[PDF](https://arxiv.org/pdf/2308.13879)]
 * [2023.05] [**QPGesture**: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation] [CVPR2023] [[PDF](https://arxiv.org/pdf/2305.11094)]
 * [2023.05] [**DSG**: DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models] [[PDF](https://arxiv.org/pdf/2305.04919)]
