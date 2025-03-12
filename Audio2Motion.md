@@ -44,6 +44,7 @@ a reading list of audio2motion
 * [2022.03] [**Bailando**: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory] [CVPR2022] [[PDF](https://arxiv.org/pdf/2203.13055) [Page](https://www.mmlab-ntu.com/project/bailando/index.html)]
 * [2021.01] [**AIST++**: AI Choreographer: Music Conditioned 3D Dance Generation with AIST++] [ICCV2021] [[PDF](https://arxiv.org/pdf/2101.08779)]
 ### else
+* [2025.02] [**X-Dancer**: Expressive Music to Human Dance Video Generation] [[PDF](https://arxiv.org/pdf/2502.17414)]
 * [2024.09] [**DanceFusion**: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction] [[PDF](https://arxiv.org/pdf/2411.04646)]
 ### Interaction Dance
 * [2024.12] [**InterDance**: REACTIVE 3D DANCE GENERATION WITH REALISTIC DUET INTERACTIONS] [[PDF](https://arxiv.org/pdf/2412.16982)]
