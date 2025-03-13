@@ -35,6 +35,7 @@ a reading list of audio2motion
 
 ## Music2Dance
 ### On FineDance dataset
+* [2025.02] [**GCDance**: Genre-Controlled 3D Full Body Dance Generation Driven By Music] [[PDF](https://arxiv.org/pdf/2502.18309)]
 * [2024.10] [**lodge++**: High-quality and Long Dance Generation with Vivid Choreography Patterns] [[Page](https://li-ronghui.github.io/lodgepp)]
 * [2024.03] [**lodge**: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives] [[Page](https://li-ronghui.github.io/lodge)]
 * [2022.12] [**FineDance**: A Fine-grained Choreography Dataset for 3D Full Body Dance Generation] [[PDF](https://arxiv.org/pdf/2212.03741)]
