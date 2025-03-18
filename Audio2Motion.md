@@ -1,6 +1,7 @@
 # Audio2Motion
 a reading list of audio2motion  
 ## Speech2Gesture
+* [2025.03] [**ExGes**: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis] [[PDF](https://arxiv.org/pdf/2503.06499)]
 * [2025.01] [**GestureLSM**: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling] [[PDF](https://arxiv.org/pdf/2501.18898v1) [Page](https://andypinxinliu.github.io/GestureLSM)]
 * [2024.10] [**SynTalker**: Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation] [MM2024] [[PDF](https://arxiv.org/pdf/2410.00464v1)]
 * [2024.03] [**MambaTalk**: Efficient Holistic Gesture Synthesis with Selective State Space Models] [NIPS2024][[PDF](https://arxiv.org/pdf/2403.09471v5)] 
