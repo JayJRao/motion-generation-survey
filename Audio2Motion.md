@@ -1,6 +1,10 @@
 # Audio2Motion
 a reading list of audio2motion  
 ## Speech2Gesture
+* [2025.05] [**Intentional Gesture**: Deliver Your Intentions with Gestures for Speech] [[PDF](https://arxiv.org/pdf/2505.15197)]
+* [2025.05] [**M3G**: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis] [[PDF](https://arxiv.org/pdf/2505.08293)]
+* [2025.04] [**EchoMask**: Speech-Queried Attention-based Mask Modeling for Holistic Co-Speech Motion Generation] [[PDF](https://arxiv.org/pdf/2504.09209) [Page](https://xiangyuezhang.com/EchoMask/)]
+* [2025.03] [**HoLoGest**: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures] [3DV2025] [[PDF](https://arxiv.org/pdf/2503.13229)]
 * [2025.03] [**MAG**: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization] [[PDF](https://arxiv.org/pdf/2503.14040)]
 * [2025.03] [**ExGes**: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis] [[PDF](https://arxiv.org/pdf/2503.06499)]
 * [2025.01] [**GestureLSM**: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling] [[PDF](https://arxiv.org/pdf/2501.18898v1) [Page](https://andypinxinliu.github.io/GestureLSM)]
@@ -28,6 +32,7 @@ a reading list of audio2motion
 * [2021.02] [**Habibie et al**: Learning Speech-driven 3D Conversational Gestures from Video] [IVA2021] [[PDF](https://arxiv.org/pdf/2102.06837)]
 * [2019.06] [**Ginosar et al**: Learning Individual Styles of Conversational Gesture] [CVPR2019] [[PDF](https://arxiv.org/pdf/1906.04160)]
 ### Interaction Speech Motion
+* [2025.05] [**Co3Gesture**: TOWARDS COHERENT CONCURRENT CO-SPEECH 3D GESTURE GENERATION WITH INTERACTIVE DIFFUSION] [ICLR2025] [[PDF](https://arxiv.org/pdf/2505.01746)]
 * [2024.12] [**It Takes Two**: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model] [[PDF](https://arxiv.org/pdf/2412.02419)]
 ### Gesture Generation on Beat2
 * [2025.01] [**GestureLSM**: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling] [[PDF](https://arxiv.org/pdf/2501.18898v1) [Page](https://andypinxinliu.github.io/GestureLSM)]
